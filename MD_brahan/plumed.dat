@@ -1,0 +1,3 @@
+bra: BRAHAN BINDING_PARAM=bind_site.pdb.param R_PARAM=subR.pdb.param P_PARAM=subP.pdb.param TS_PARAM=subTS.pdb.param REACTANT=subR.pdb PRODUCT=subP.pdb TS=subTS.pdb BINDING=bind_site.pdb
+PRINT ARG=* FILE=COLVAR STRIDE=100
+

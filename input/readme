@@ -1,0 +1,20 @@
+bind_site.pdb and subR.pdb were created from npt.gro using vmd 
+cis and ts AAPF was created from subR.pdb by using VMD's scripting interface 
+to give transformation matrix  to rotate omega dihedral angle.
+
+
+1. bind_site.pdb is a pdb file of residues within 5 Angstrom of substrate and residues
+   This is the list of residue in bind_site.pdb
+   TRP121, ARG55, GLN63, ASN102, PHE113, LEU122, MET61, PHE60, HIS126, ILE57, GLN111
+   This pdb file created from npt.gro using vmd
+
+
+2. subR.pdb is a pdb file of reactant substrate (trans AAPF)
+
+3. subP.pdb is a pdb file of product substate (cis AAPF)
+
+4. subTS.pdb is a pdb file of transition state substrate (ts AAPF)
+  
+   
+
+
